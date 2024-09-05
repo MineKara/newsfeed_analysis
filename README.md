@@ -21,6 +21,10 @@ more with the audience and provide recommendations to optimize the Newsfeed feat
 [Tableau Link](https://public.tableau.com/views/newsfeed_analysis_17253663982120/NewsfeedAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) : 
 The dashboard link has been added to the Tableau Public website.
 
+<p align="center" width="100%">
+    <img width="60%" src="https://i.imghippo.com/files/TOKFO1725552032.png">
+</p>
+
 ## Project Goals<a name="project-goals"></a>
 * **Analyze User Engagement:** Understand the patterns of user interaction with both automated and manual newsfeed posts.
 * **Identify Trends and Insights:** Determine which types of posts (automated vs. manual) receive more engagement and identify any potential issues with user interaction.
